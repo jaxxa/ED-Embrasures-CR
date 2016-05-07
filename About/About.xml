@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>ED-Embrasures CR</name>
+	<author>Jaxxa</author>
+	<url>https://ludeon.com/forums/index.php?topic=15606.0</url>
+	<description>
+	Requires: Community Core Library, Combat Realism Core, ED-Embrasures
+	
+This is a Compatibility patch that Modifies ED-Embrasures to work with Combat Realism.
+
+Combat Realism by NoImageAvailable
+	</description>
+</ModMetaData>
